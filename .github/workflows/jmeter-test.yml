@@ -39,4 +39,3 @@ jobs:
       # 6. Show results
       - name: Show results
         run: cat results.jtl
-``
